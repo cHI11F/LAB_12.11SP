@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+D:\Visual Studio проекти\LAB_12.11SP\UnitTest1\UnitTest1.cpp(28,36): error C2039: 'getRoot': is not a member of 'BookList'
+  (compiling source file '/UnitTest1.cpp')
+  D:\Visual Studio проекти\LAB_12.11SP\LAB_12.11SP\LAB_12.11SP.cpp(17,7):
+  see declaration of 'BookList'
+  
+D:\Visual Studio проекти\LAB_12.11SP\UnitTest1\UnitTest1.cpp(50,37): error C2039: 'getRoot': is not a member of 'BookList'
+  (compiling source file '/UnitTest1.cpp')
+  D:\Visual Studio проекти\LAB_12.11SP\LAB_12.11SP\LAB_12.11SP.cpp(17,7):
+  see declaration of 'BookList'
+  
